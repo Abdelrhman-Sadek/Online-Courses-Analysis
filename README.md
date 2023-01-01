@@ -44,7 +44,7 @@ subjects:
 ## Comparison between these two on price and search volume
 <br/>
 ![paltform](https://user-images.githubusercontent.com/94745919/210173364-1da35797-b812-49c3-8472-ca48e09dbbc0.png)
-**
+
 
 
 
