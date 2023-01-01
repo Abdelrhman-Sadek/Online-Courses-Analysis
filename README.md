@@ -11,5 +11,13 @@ unfortunately your downfall, there are alot of advantages and disadvantages for 
 we have two datasets for two of most populair and largest websites on the internet that provid online courses for most of the major fields
 1- EdX from its name have the couses and subject the EdX have on there site with information about each course 
 <br/>
-2-Udemy the same but for udemy courses 
-
+2-Udemy the same but for udemy courses.
+<br/>
+3- used the help of google trands to know the weekly search of each of them over the last 5y around the world
+<br/>
+<br/>
+## Preparation
+After filtering the date and doing data cleaning I conected the data with SQL useing SQLITE3 run some queries and extract the informations needed for analysis such as prices,level,etc and save them as csv  
+<br/>
+then pushed the the csv that created to tableau public then for Analysis  
+## Analysis 
