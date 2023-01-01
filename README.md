@@ -2,8 +2,7 @@
 ## Description
 ![download](https://user-images.githubusercontent.com/94745919/210171818-f33ae47d-50aa-4632-aaa8-7766f34b0207.png)
 
-Online cou![Uploading download.png…]()
-rses nowadays became one of the best easy sources for education in every educational fields and it is one of the reasons in my opinion for The spread of education all around the world is beacuse now all you need to have is an internet and you can start your journey in any educational field you want 
+Online courses nowadays became one of the best easy sources for education in every educational fields and it is one of the reasons in my opinion for The spread of education all around the world is beacuse now all you need to have is an internet and you can start your journey in any educational field you want 
 <br/>
 You can study any time you want. You can study with whomever you want. You can study wearing anything you want (or nothing if you prefer!) Online courses give you the flexibility to spend time with work, family, friends, significant others or any other activity you like. You still have to complete the work (and this flexibility can be
 unfortunately your downfall, there are alot of advantages and disadvantages for online courses  
