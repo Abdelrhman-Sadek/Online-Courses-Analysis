@@ -25,7 +25,7 @@ then pushed the the csv that created to tableau public then for analysis**
 **in the pyton notbook I did analysis and explortion for details on the data but i wanted to take it farther so i connected the data to tableau and created 5 dashbords explaining and visualzing :**
 <br/>
 ## EdX
-**levels:
+levels:
 <br/>
 ![EdX levels](https://user-images.githubusercontent.com/94745919/210173170-0136e1ce-6ac1-40d6-bcdb-0a2bf49916b0.png)
 <br/>
@@ -38,7 +38,7 @@ levels:
 <br/>
 ![Udemy levels](https://user-images.githubusercontent.com/94745919/210173236-d4b91157-39cf-4ac4-9f5f-c909d13b55de.png)
 <br/>
-subjects:**
+subjects:
 <br/>
 ![Udemy subject](https://user-images.githubusercontent.com/94745919/210173275-eed1174d-8322-48a1-a109-6147693a7175.png)
 ## Comparison between these two on price and search volume
