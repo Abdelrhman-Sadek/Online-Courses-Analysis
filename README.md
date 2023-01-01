@@ -40,10 +40,11 @@ levels:
 <br/>
 subjects:
 <br/>
-![Udemy subject](https://user-images.githubusercontent.com/94745919/210173275-eed1174d-8322-48a1-a109-6147693a7175.png)**
+![Udemy subject](https://user-images.githubusercontent.com/94745919/210173275-eed1174d-8322-48a1-a109-6147693a7175.png)
 ## Comparison between these two on price and search volume
 ![paltform](https://user-images.githubusercontent.com/94745919/210173364-1da35797-b812-49c3-8472-ca48e09dbbc0.png)
 
+**
 
 
 
