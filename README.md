@@ -13,16 +13,16 @@ we have two datasets for two of most populair and largest websites on the intern
 <br/>
 2-Udemy the same but for udemy courses.
 <br/>
-3- used the help of google trands to know the weekly search of each of them over the last 5y around the world
+3- used the help of google trands to know the weekly search of each of them over the last 5y around the world**
 <br/>
 <br/>
 ## Preparation
-After filtering the date and doing data cleaning I conected the data with SQL useing SQLITE3 run some queries and extract the informations needed for analysis such as prices,level,etc and save them as csv  
+**After filtering the date and doing data cleaning I conected the data with SQL useing SQLITE3 run some queries and extract the informations needed for analysis such as prices,level,etc and save them as csv  
 <br/>
-then pushed the the csv that created to tableau public then for analysis
+then pushed the the csv that created to tableau public then for analysis**
 <br/>
 ## Analysis 
-in the pyton notbook I did analysis and explortion for details on the data but i wanted to take it farther so i connected the data to tableau and created 5 dashbords explaining and visualzing : 
+**in the pyton notbook I did analysis and explortion for details on the data but i wanted to take it farther so i connected the data to tableau and created 5 dashbords explaining and visualzing :**
 <br/>
 ## EdX
 levels:
@@ -43,8 +43,6 @@ subjects:
 ![Udemy subject](https://user-images.githubusercontent.com/94745919/210173275-eed1174d-8322-48a1-a109-6147693a7175.png)
 ## Comparison between these two on price and search volume
 ![paltform](https://user-images.githubusercontent.com/94745919/210173364-1da35797-b812-49c3-8472-ca48e09dbbc0.png)
-
-**
 
 
 
